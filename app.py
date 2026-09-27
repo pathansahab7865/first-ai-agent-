@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # Gemini API Key setup
 API_KEY = os.environ.get("GEMINI_API_KEY", "AQ.Ab8RN6IxVxLbA58FVmmgxLHuafjoVV1WwY5HIhuq-9Uv5OXZDQ")
-genai.configure(api_key=API_KEY)
+genai.configure(api_key=AQ.Ab8RN6Jr0Vyoso0_2T9fwZ8ZFrBhBxT5DX5yJ0xhuYjEQI3ROQ)
 
 def generate_website_agent():
     print("="*50)
